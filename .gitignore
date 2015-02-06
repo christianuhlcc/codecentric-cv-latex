@@ -1,6 +1,5 @@
-cv.aux
-cv.log
-cv.nlo
-cv.out
-cv.pdf
-
+*.aux
+*.log
+*.nlo
+*.out
+*.pdf
